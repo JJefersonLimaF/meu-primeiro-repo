@@ -1,3 +1,3 @@
 # meu-primeiro-repo
 Meu primeiro repositório
-ajbg
+Este repositório é apenas um teste inicialmente.
